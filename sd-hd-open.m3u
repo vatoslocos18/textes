@@ -1,263 +1,820 @@
 #EXTM3U
-#EXTINF:-1,DE: Orf 1
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/190.ts
-#EXTINF:-1,DE: Orf 2
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/191.ts
-#EXTINF:-1,DE: Orf 3
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8624.ts
-#EXTINF:-1,DE: ATV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8581.ts
-#EXTINF:-1,DE: ATV 2
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8623.ts
-#EXTINF:-1,DE: Austria 24h
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/6366.ts
-#EXTINF:-1,DE: Puls 4
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8582.ts
-#EXTINF:-1,DE: Okto
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/1504.ts
-#EXTINF:-1,DE: Das Erste
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8583.ts
-#EXTINF:-1,DE: ZDF
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/146.ts
-#EXTINF:-1,DE: ZDF Neo
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8676.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/144.ts
-#EXTINF:-1,DE: RTL HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/185.ts
-#EXTINF:-1,DE: RTL 2
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/187.ts
-#EXTINF:-1,DE: RTL 2 You
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10350.ts
-#EXTINF:-1,DE: RTL Living
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10349.ts
-#EXTINF:-1,DE: RTL Plus
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11276.ts
-#EXTINF:-1,DE: RTL CRIME
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/186.ts
-#EXTINF:-1,DE: RTL Nitro
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/184.ts
-#EXTINF:-1,DE: RTL PASSION
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/183.ts
-#EXTINF:-1,DE: RTL Lux
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8679.ts
-#EXTINF:-1,DE: Super RTL
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/153.ts
-#EXTINF:-1,DE: Pro 7 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/188.ts
-#EXTINF:-1,DE: Pro 7 Maxx
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8541.ts
-#EXTINF:-1,DE: Pro 7 Fun
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8542.ts
-#EXTINF:-1,DE: Kabel Eins
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/199.ts
-#EXTINF:-1,DE: Servus (DE)
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8651.ts
-#EXTINF:-1,DE: Servus (AT)
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8652.ts
-#EXTINF:-1,DE: Euronews
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8675.ts
-#EXTINF:-1,DE: DW
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8678.ts
-#EXTINF:-1,DE: Vox
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/148.ts
-#EXTINF:-1,DE: Fox
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/201.ts
+ #EXTINF:-1,##########   Germany   ##########
+#EXTINF:-1,13th Street HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/80.ts
+#EXTINF:-1,13th Street FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3948.ts
+#EXTINF:-1,3sat HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2565.ts
+#EXTINF:-1,Animal Planet HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2564.ts
+#EXTINF:-1,Animal Planet FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3946.ts
+#EXTINF:-1,ANIXE HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2563.ts
+#EXTINF:-1,ARD-alpha DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/107.ts
+#EXTINF:-1,arte DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/106.ts
+#EXTINF:-1,arte FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4173.ts
+#EXTINF:-1,Astro TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5432.ts
+#EXTINF:-1,Augsburg TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/103.ts
+#EXTINF:-1,AXN HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/105.ts
+#EXTINF:-1,AXN FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3945.ts
+#EXTINF:-1,A&E FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3947.ts
+#EXTINF:-1,Baby TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/104.ts
+#EXTINF:-1,BR DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5431.ts
+#EXTINF:-1,Boomerang DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3185.ts
+#EXTINF:-1,CLASSICA DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/102.ts
+#EXTINF:-1,Das Erste DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2562.ts
+#EXTINF:-1,Das Erste FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4177.ts
+#EXTINF:-1,Deluxe Music DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3184.ts
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5430.ts
+#EXTINF:-1,Discovery Channel HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/59.ts
+#EXTINF:-1,Discovery Channel FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3944.ts
+#EXTINF:-1,Disney Channel DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/99.ts
+#EXTINF:-1,Disney Channel FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3943.ts
+#EXTINF:-1,Disney Cinemagic DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3183.ts
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3942.ts
+#EXTINF:-1,Disney Junior DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/58.ts
+#EXTINF:-1,Disney XD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/98.ts
+#EXTINF:-1,DMAX HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/101.ts
+#EXTINF:-1,Eurosport 1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1316.ts
+#EXTINF:-1,Eurosport 2 DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/97.ts
+#EXTINF:-1,E! Entertaiment DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5429.ts
+#EXTINF:-1,Equi8 DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5428.ts
+#EXTINF:-1,EWTN Europe DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5427.ts
+#EXTINF:-1,Family TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5426.ts
+#EXTINF:-1,Franken Fernsehen DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5424.ts
+#EXTINF:-1,FOX HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2556.ts
+#EXTINF:-1,FOX FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3941.ts
+#EXTINF:-1,Fox Serie DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5425.ts
+#EXTINF:-1,Goldstar TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/84.ts
+#EXTINF:-1,HR DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5422.ts
+#EXTINF:-1,HR HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5421.ts
+#EXTINF:-1,Heimatikanal DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3182.ts
+#EXTINF:-1,History HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/95.ts
+#EXTINF:-1,History FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3940.ts
+#EXTINF:-1,Home Shopping Europe DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5423.ts
+#EXTINF:-1,HSE24 Trend DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5420.ts
+#EXTINF:-1,INTV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5419.ts
+#EXTINF:-1,Jukebox DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3854.ts
+#EXTINF:-1,Junior DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3850.ts
+#EXTINF:-1,kabel eins CLASSICS HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/94.ts
+#EXTINF:-1,kabel eins Doku DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/93.ts
+#EXTINF:-1,kabel eins HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/92.ts
+#EXTINF:-1,kabel eins FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4175.ts
+#EXTINF:-1,KiKa DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/91.ts
+#EXTINF:-1,KiKa FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4174.ts
+#EXTINF:-1,KinoweltTV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/90.ts
+#EXTINF:-1,MediaShop Meine Einkaufswelt DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5418.ts
+#EXTINF:-1,Mediaspar TV Homeshopping DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5417.ts
+#EXTINF:-1,MeinTVshop DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5416.ts
+#EXTINF:-1,MDR HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/89.ts
+#EXTINF:-1,Motorvision TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3181.ts
+#EXTINF:-1,MTV Dance DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3853.ts
+#EXTINF:-1,N24 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/88.ts
+#EXTINF:-1,N24 Doku DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5415.ts
+#EXTINF:-1,Nat Geo People DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5414.ts
+#EXTINF:-1,National Geographic HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/87.ts
+#EXTINF:-1,National Geographic FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3935.ts
+#EXTINF:-1,Nat Geo Wild DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2561.ts
+#EXTINF:-1,Nat Geo Wild FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3937.ts
+#EXTINF:-1,NDR HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/86.ts
+#EXTINF:-1,Nickelodeon CH
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2560.ts
+#EXTINF:-1,Nickelodeon DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3852.ts
+#EXTINF:-1,Nickelodeon FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4176.ts
+#EXTINF:-1,n-tv DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/85.ts
+#EXTINF:-1,n-tv FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3938.ts
+#EXTINF:-1,ORF eins HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2559.ts
+#EXTINF:-1,ORF 2 DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2558.ts
+#EXTINF:-1,Phoenix HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3186.ts
+#EXTINF:-1,Planet HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5413.ts
+#EXTINF:-1,ProSieben DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3180.ts
+#EXTINF:-1,ProSieben HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/83.ts
+#EXTINF:-1,ProSieben FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4171.ts
+#EXTINF:-1,ProSieben MAXX HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/82.ts
+#EXTINF:-1,ProSieben MAXX FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3933.ts
+#EXTINF:-1,QVC Beauty & Style DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5411.ts
+#EXTINF:-1,QVC DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5412.ts
+#EXTINF:-1,rbb Berlin DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5410.ts
+#EXTINF:-1,rbb Brandenburg DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5409.ts
+#EXTINF:-1,Regio TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5408.ts
+#EXTINF:-1,RFO DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5407.ts
+#EXTINF:-1,RIC DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5406.ts
+#EXTINF:-1,Romance TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3177.ts
+#EXTINF:-1,RTL Crime DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/77.ts
+#EXTINF:-1,RTL DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/81.ts
+#EXTINF:-1,RTL FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4184.ts
+#EXTINF:-1,RTL Living HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/76.ts
+#EXTINF:-1,RTL Nitro HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/75.ts
+#EXTINF:-1,RTL Nitro FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3930.ts
+#EXTINF:-1,RTL Passion DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/74.ts
+#EXTINF:-1,RTL II DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/79.ts
+#EXTINF:-1,RTL II FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3932.ts
+#EXTINF:-1,RTL II YOU HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/78.ts
+#EXTINF:-1,SAT.1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/72.ts
+#EXTINF:-1,SAT.1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3929.ts
+#EXTINF:-1,SAT.1 emotions DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/73.ts
+#EXTINF:-1,SAT.1 GOLD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/71.ts
+#EXTINF:-1,Servus TV HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/70.ts
+#EXTINF:-1,SIXX HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/69.ts
+#EXTINF:-1,SIXX FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3928.ts
+#EXTINF:-1,Sonnenklar TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5405.ts
+#EXTINF:-1,Sony TV HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5433.ts
+#EXTINF:-1,Super RTL FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3923.ts
+#EXTINF:-1,Sparhandy TV DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5404.ts
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3174.ts
+#EXTINF:-1,Spiegel TV Wissen DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5398.ts
+#EXTINF:-1,SWR DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5403.ts
+#EXTINF:-1,SWR HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5402.ts
+#EXTINF:-1,Syfy DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3173.ts
+#EXTINF:-1,Syfy FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3922.ts
+#EXTINF:-1,Sky 1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/68.ts
+#EXTINF:-1,Sky Atlantic HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/66.ts
+#EXTINF:-1,Sky Atlantic FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3926.ts
+#EXTINF:-1,Sky Atlantic +1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4390.ts
+#EXTINF:-1,Sky Cinema HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/62.ts
+#EXTINF:-1,Sky Cinema FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3925.ts
+#EXTINF:-1,Sky Cinema Action HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/67.ts
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3927.ts
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/65.ts
+#EXTINF:-1,Sky Cinema +1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4183.ts
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/64.ts
+#EXTINF:-1,Sky Cinema +24 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4391.ts
+#EXTINF:-1,Sky Cinema Comedy HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/60.ts
+#EXTINF:-1,Sky Cinema Emotion DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2557.ts
+#EXTINF:-1,Sky Cinema Emotion HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3849.ts
+#EXTINF:-1,Sky Cinema Family HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/63.ts
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4181.ts
+#EXTINF:-1,Sky Cinema Hits HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2555.ts
+#EXTINF:-1,Sky Cinema Hits FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3924.ts
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3178.ts
+#EXTINF:-1,Sky Krimi DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3179.ts
+#EXTINF:-1,Sky 3D FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4179.ts
+#EXTINF:-1,Sky Arte FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4389.ts
+#EXTINF:-1,Sky Select 1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1339.ts
+#EXTINF:-1,Sky Select 2 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1338.ts
+#EXTINF:-1,Sky Select 3 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1337.ts
+#EXTINF:-1,Sky Select 4 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1336.ts
+#EXTINF:-1,Sky Select 5 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1335.ts
+#EXTINF:-1,Sky Select 6 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1334.ts
+#EXTINF:-1,Sky Select 7 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1333.ts
+#EXTINF:-1,Sky Select 8 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1332.ts
+#EXTINF:-1,SilverLine Movies Channel HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5490.ts
+#EXTINF:-1,Tagesschau 24 DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5401.ts
+#EXTINF:-1,TELE 5 DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3172.ts
+#EXTINF:-1,TLC DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3171.ts
+#EXTINF:-1,TOGGO plus DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3851.ts
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2549.ts
+#EXTINF:-1,TNT Film DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4388.ts
+#EXTINF:-1,TNT Film HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2554.ts
+#EXTINF:-1,TNT Comedy HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3848.ts
+#EXTINF:-1,TNT Comedy FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4180.ts
+#EXTINF:-1,TNT Serie HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3175.ts
+#EXTINF:-1,TNT Serie FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3921.ts
+#EXTINF:-1,Ulm-Allg DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5400.ts
+#EXTINF:-1,Universal Channel HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3170.ts
+#EXTINF:-1,VIVA / Comedy Central DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3169.ts
+#EXTINF:-1,VOX DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/100.ts
+#EXTINF:-1,VOX FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3920.ts
+#EXTINF:-1,WDR HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2551.ts
+#EXTINF:-1,Welt der Wunder DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5399.ts
+#EXTINF:-1,ZDF DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2550.ts
+#EXTINF:-1,ZDF FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4178.ts
+#EXTINF:-1,ZDFinfo DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3856.ts
+#EXTINF:-1,ZDFneo DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3855.ts
+#EXTINF:-1,ZDFneo FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4172.ts
+#EXTINF:-1,Zee One DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/96.ts
+#EXTINF:-1,Zee One FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5397.ts
+#EXTINF:-1,sportdigital DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3187.ts
+#EXTINF:-1,Sky Sport Austria DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3176.ts
+#EXTINF:-1,Sky Sport Austria FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5584.ts
+#EXTINF:-1,Sky Sport FanZone FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3939.ts
+#EXTINF:-1,Sport1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/3847.ts
+#EXTINF:-1,Sky Sport News HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1315.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1331.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4387.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1330.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4386.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1329.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4385.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1328.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4384.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1327.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4383.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1326.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4382.ts
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4381.ts
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4380.ts
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4379.ts
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4378.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1325.ts
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4377.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1324.ts
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4376.ts
+#EXTINF:-1,Sky Sport 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1323.ts
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4375.ts
+#EXTINF:-1,Sky Sport 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1322.ts
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4374.ts
+#EXTINF:-1,Sky Sport 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1321.ts
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4373.ts
+#EXTINF:-1,Sky Sport 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1320.ts
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4372.ts
+#EXTINF:-1,Sky Sport 7 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1319.ts
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4371.ts
+#EXTINF:-1,Sky Sport 8 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/1318.ts
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4370.ts
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4369.ts
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4368.ts
+#EXTINF:-1,Sky Sport 11 FHD DE
+http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/4367.ts
+#EXTINF:-1,*** Germany ***
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19481.ts
+#EXTINF:-1,! Sky Hits HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19283.ts
+#EXTINF:-1,! Syfy HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19260.ts
+#EXTINF:-1,! Sky Cinema HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19274.ts
+#EXTINF:-1,! TNT Film (TCM)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19281.ts
+#EXTINF:-1,! Sky Cinema 24
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19276.ts
+#EXTINF:-1,! Sky Cinema 1 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19278.ts
+#EXTINF:-1,! Sky Arts HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19264.ts
+#EXTINF:-1,! RTL Crime HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19267.ts
+#EXTINF:-1,! Nat Geo Wild HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19275.ts
+#EXTINF:-1,! MGM HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19280.ts
+#EXTINF:-1,! Eurosport 2 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19259.ts
+#EXTINF:-1,! Disney Junior HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19263.ts
+#EXTINF:-1,! Discovery HD German
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19277.ts
+#EXTINF:-1,! Universal HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19210.ts
+#EXTINF:-1,! TNT Serie HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19222.ts
+#EXTINF:-1,! TNT Comedy HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19246.ts
+#EXTINF:-1,! History HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27336.ts
+#EXTINF:-1,! Sport1US HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19216.ts
+#EXTINF:-1,! Sky Atlantic HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19225.ts
+#EXTINF:-1,! Sky Action HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19217.ts
+#EXTINF:-1,! Fox HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19228.ts
+#EXTINF:-1,! E! Entertainm. HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19237.ts
+#EXTINF:-1,! Disney Cinemagic HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19230.ts
+#EXTINF:-1,! Cartoon Network
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19213.ts
+#EXTINF:-1,! Boomerang
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19240.ts
+#EXTINF:-1,! AXN HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19221.ts
+#EXTINF:-1,! 13th Street HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19223.ts
+#EXTINF:-1,DE: SKY 3D
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/22878.ts
 #EXTINF:-1,DE: 3sat
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/211.ts
-#EXTINF:-1,DE: Sat 1
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/182.ts
-#EXTINF:-1,DE: D-Max
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/204.ts
-#EXTINF:-1,DE: E!
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8680.ts
-#EXTINF:-1,DE: TLC
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10370.ts
-#EXTINF:-1,DE: Muenchen TV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8653.ts
-#EXTINF:-1,DE: Alex Berlin
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8654.ts
-#EXTINF:-1,DE: Tagesschau 24
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/151.ts
-#EXTINF:-1,DE: Arte HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/209.ts
-#EXTINF:-1,DE: WDR HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/147.ts
-#EXTINF:-1,DE: BR
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8668.ts
-#EXTINF:-1,DE: MDR
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8671.ts
-#EXTINF:-1,DE: SWR
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8669.ts
-#EXTINF:-1,DE: SR
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8670.ts
-#EXTINF:-1,DE: Syfy HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/152.ts
-#EXTINF:-1,DE: N 24 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/196.ts
-#EXTINF:-1,DE: N-TV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/195.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10360.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10359.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10358.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10357.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10356.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10355.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10354.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10353.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10352.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10351.ts
-#EXTINF:-1,DE: Sky Sports 1 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/160.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/159.ts
-#EXTINF:-1,DE: Sky Sports 3 HD (Only Live)
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8612.ts
-#EXTINF:-1,DE: Sky Sport News
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8543.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19578.ts
+#EXTINF:-1,Sky Sports Active 1
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28341.ts
+#EXTINF:-1,Sky Sports Active 2
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28340.ts
+#EXTINF:-1,Sky Sports Active 3
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28339.ts
+#EXTINF:-1,Sky Sports Active 4
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28338.ts
+#EXTINF:-1,Sky Sports Active 5
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28337.ts
+#EXTINF:-1,Sky Sports Active 6
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28336.ts
+#EXTINF:-1,Sky Sports Active 7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28335.ts
+#EXTINF:-1,Sky Sports Active 8
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28334.ts
+#EXTINF:-1,Sky Sports Active 9
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28333.ts
+#EXTINF:-1,Sky Sports Active 10
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/28332.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19258.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19219.ts
+#EXTINF:-1,DE: Sky Sport 3 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19813.ts
+#EXTINF:-1,DE: Sky Sport 4 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19681.ts
+#EXTINF:-1,DE: Sky Sport 5 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19818.ts
+#EXTINF:-1,DE: Sky Sport 6 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19666.ts
+#EXTINF:-1,DE: Sky Sport 7 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19697.ts
+#EXTINF:-1,DE: Sky Sport 8 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19670.ts
+#EXTINF:-1,DE: Sky Sport 9 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19684.ts
+#EXTINF:-1,DE: Sky Sport 10 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19688.ts
+#EXTINF:-1,DE: Sky Sport 11 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19675.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19544.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19573.ts
+#EXTINF:-1,DE: Sky Sports 2
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/26080.ts
 #EXTINF:-1,DE: Sky Sport Austria
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/161.ts
-#EXTINF:-1,DE: Eurosport 1
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/202.ts
-#EXTINF:-1,DE: Sky Select HD 1
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/167.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/166.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/165.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/164.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/163.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/162.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/169.ts
-#EXTINF:-1,DE: MTV Base
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10361.ts
-#EXTINF:-1,DE: MTV Dance
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11268.ts
-#EXTINF:-1,DE: MTV Hits
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11267.ts
-#EXTINF:-1,DE: NRJ Hits
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11278.ts
-#EXTINF:-1,DE: Jukebox
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11279.ts
-#EXTINF:-1,DE: Sky Action
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/180.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/179.ts
-#EXTINF:-1,DE: Sky Comedy
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/175.ts
-#EXTINF:-1,DE: Sky Krimi
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/171.ts
-#EXTINF:-1,DE: Sky Cinema Hits
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/172.ts
-#EXTINF:-1,DE: Sky Emotion
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/174.ts
-#EXTINF:-1,DE: Sky Cinema
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/177.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8540.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/176.ts
-#EXTINF:-1,DE: AXN HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/208.ts
-#EXTINF:-1,DE: 13TH Street HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/212.ts
-#EXTINF:-1,DE: TNT Film
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/150.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19591.ts
+#EXTINF:-1,DE: Sky Sport 3 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19524.ts
+#EXTINF:-1,DE: Sky Sport 4 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19528.ts
+#EXTINF:-1,DE: Sky Sport 5 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19519.ts
+#EXTINF:-1,DE: Sky Sport 6 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19522.ts
+#EXTINF:-1,DE: Sky Sport 7 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19517.ts
+#EXTINF:-1,DE: Sky Sport 8 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19586.ts
+#EXTINF:-1,DE: Sky Sport 9 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19582.ts
+#EXTINF:-1,DE: Sky Sport 10 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19571.ts
+#EXTINF:-1,DE: Sky Sport 11 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19525.ts
+#EXTINF:-1,DE: Sky Sport News
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19548.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19268.ts
+#EXTINF:-1,DE: Sky Sport Fanzone HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19218.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19270.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19282.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19702.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19811.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19694.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19674.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19701.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19690.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19695.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19687.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19568.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19520.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19518.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19512.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19521.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19511.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19577.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19584.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19580.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19516.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19224.ts
+#EXTINF:-1,DE: Eurosport 360 HD 1 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19812.ts
+#EXTINF:-1,DE: Eurosport 360 HD 2 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19685.ts
+#EXTINF:-1,DE: Eurosport 360 HD 3 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19815.ts
+#EXTINF:-1,DE: Eurosport 360 HD 4 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19679.ts
+#EXTINF:-1,DE: Eurosport 360 HD 5 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19689.ts
+#EXTINF:-1,DE: Eurosport 360 HD 6 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19692.ts
+#EXTINF:-1,DE: Eurosport 360 HD 7 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19668.ts
+#EXTINF:-1,DE: Eurosport 360 HD 8 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19698.ts
+#EXTINF:-1,DE: Eurosport 360 HD 9 Not 24/7
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19699.ts
+#EXTINF:-1,DE: Sport1 HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19215.ts
+#EXTINF:-1,DE: Sport1+ HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/22505.ts
+#EXTINF:-1,DE: Motorvision TV
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19269.ts
+#EXTINF:-1,DE: Universal HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19677.ts
 #EXTINF:-1,DE: TNT Serie HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/149.ts
-#EXTINF:-1,DE: ZEE One
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/9413.ts
-#EXTINF:-1,DE: MGM
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/197.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/207.ts
-#EXTINF:-1,DE: National Geographic Channel HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/194.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/193.ts
-#EXTINF:-1,DE: History HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/200.ts
-#EXTINF:-1,DE: Animal Planet
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8681.ts
-#EXTINF:-1,DE: Kika HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/198.ts
-#EXTINF:-1,DE: Nickelodeon
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8666.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/205.ts
-#EXTINF:-1,DE: Disney Channel
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/206.ts
-#EXTINF:-1,DE: A&E
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10373.ts
-#EXTINF:-1,DE: Boomerang HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10385.ts
-#EXTINF:-1,DE: Cartoon Network HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10384.ts
-#EXTINF:-1,DE: Disney Junior
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10381.ts
-#EXTINF:-1,DE: Disney XD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10382.ts
-#EXTINF:-1,DE: Eurosport 2
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10364.ts
-#EXTINF:-1,DE: Heimat Kanal HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10377.ts
-#EXTINF:-1,DE: Junior HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10383.ts
-#EXTINF:-1,DE: Kabel Classic HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10367.ts
-#EXTINF:-1,DE: Kabel1 Doku
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10368.ts
-#EXTINF:-1,DE: Kinowelt TV HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10376.ts
-#EXTINF:-1,DE: Moto Vision
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10371.ts
-#EXTINF:-1,DE: Nick Jr.
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10379.ts
-#EXTINF:-1,DE: Planet HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10374.ts
-#EXTINF:-1,DE: Romance TV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10375.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10366.ts
-#EXTINF:-1,DE: SIXX HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10365.ts
-#EXTINF:-1,DE: Sony Channel HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10369.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19672.ts
 #EXTINF:-1,DE: TNT Comedy HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10378.ts
-#EXTINF:-1,DE: Universal Channel HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10372.ts
-#EXTINF:-1,DE: ComedyCentral/VIVA
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11277.ts
-#EXTINF:-1,DE: GoldstarTV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11280.ts
-#EXTINF:-1,DE: Phoenix
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11273.ts
-#EXTINF:-1,DE: Silverline
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11275.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11270.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19691.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19683.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19553.ts
+#EXTINF:-1,DE: NatGeo HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19678.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19583.ts
+#EXTINF:-1,DE: History HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19673.ts
+#EXTINF:-1,DE: Fox HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19671.ts
+#EXTINF:-1,DE: E! Entertainm. HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19693.ts
+#EXTINF:-1,DE: Eurosport 2
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/25656.ts
+#EXTINF:-1,DE: A&E
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/25753.ts
+#EXTINF:-1,DE: AXN HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19682.ts
+#EXTINF:-1,DE: 13th Street HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19696.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19272.ts
+#EXTINF:-1,DE: VOX
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19567.ts
+#EXTINF:-1,DE: TOGGO plus
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19546.ts
+#EXTINF:-1,DE: SUPER RTL
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19565.ts
+#EXTINF:-1,DE: Sky Krimi
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19558.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19667.ts
 #EXTINF:-1,DE: Sky Cinema Nostalgie
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11271.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19552.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19543.ts
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19569.ts
+#EXTINF:-1,DE: Sky Cinema
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19557.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19527.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19515.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19590.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19526.ts
+#EXTINF:-1,DE: Sky Cinema 24
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19510.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19680.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19585.ts
+#EXTINF:-1,DE: RTLplus
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19563.ts
+#EXTINF:-1,DE: ZDFinfo
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19587.ts
+#EXTINF:-1,DE: zdf.kultur
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19572.ts
+#EXTINF:-1,DE: zdf_neo
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19574.ts
+#EXTINF:-1,DE: ZDF
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19570.ts
+#EXTINF:-1,DE: TNT Serie
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19589.ts
+#EXTINF:-1,DE: Syfy
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19592.ts
 #EXTINF:-1,DE: Spiegel Geschichte
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11282.ts
-#EXTINF:-1,DE: SpiegelTV
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11281.ts
-#EXTINF:-1,DE: Tele5
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11274.ts
-#EXTINF:-1,DE: WeltDerWunder
-http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11283.ts
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19581.ts
+#EXTINF:-1,DE: KiKA
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19575.ts
+#EXTINF:-1,DE: Heimatkanal
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19593.ts
+#EXTINF:-1,DE: Goldstar TV
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19588.ts
+#EXTINF:-1,DE: Fox Serie
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19579.ts
+#EXTINF:-1,DE: 13th Street
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19576.ts
+#EXTINF:-1,DE: RTLNITRO
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19554.ts
+#EXTINF:-1,DE: RTL2
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19560.ts
+#EXTINF:-1,DE: RTL Television
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19551.ts
+#EXTINF:-1,DE: RTL Regional NRW
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19547.ts
+#EXTINF:-1,DE: RTL Passion
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19545.ts
+#EXTINF:-1,DE: RTL HB NDS
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19562.ts
+#EXTINF:-1,DE: RTL FS
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19555.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19561.ts
+#EXTINF:-1,DE: National Geographic
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19566.ts
+#EXTINF:-1,DE: n-tv
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19550.ts
+#EXTINF:-1,DE: MGM
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19556.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19564.ts
+#EXTINF:-1,DE: Discovery Channel
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19559.ts
+#EXTINF:-1,DE: Blue Movie
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19549.ts
+#EXTINF:-1,DE: Junior
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19523.ts
+#EXTINF:-1,DE: Disney XD
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19514.ts
+#EXTINF:-1,DE: Disney Junior
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19513.ts
+#EXTINF:-1,DE: Jukebox
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19266.ts
+#EXTINF:-1,DE: Test-R
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19503.ts
+#EXTINF:-1,DE: tagesschau24
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19497.ts
+#EXTINF:-1,DE: SAT.1 NRW
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19501.ts
+#EXTINF:-1,DE: SAT.1 Gold
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19484.ts
+#EXTINF:-1,DE: SAT.1 Bayern
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19493.ts
+#EXTINF:-1,DE: SAT.1
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19490.ts
+#EXTINF:-1,DE: ProSieben
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19491.ts
+#EXTINF:-1,DE: Pro7 MAXX
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19502.ts
+#EXTINF:-1,DE: PHOENIX
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19509.ts
+#EXTINF:-1,DE: ONE
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19500.ts
+#EXTINF:-1,DE: N24
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19508.ts
+#EXTINF:-1,DE: kabel eins Doku
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19495.ts
+#EXTINF:-1,DE: kabel eins
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19486.ts
+#EXTINF:-1,DE: EinsPlus
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19496.ts
+#EXTINF:-1,DE: Classica
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19498.ts
+#EXTINF:-1,DE: Beate-Uhse.TV
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19488.ts
+#EXTINF:-1,DE: arte
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/19483.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27237.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27236.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27235.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27234.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27233.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27232.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27231.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27230.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27229.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P)
+http://bulkyiptv.com:5750/live/spahwa@yahoo.com/oQi66L3g6s/27228.ts
