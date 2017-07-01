@@ -1,787 +1,263 @@
 #EXTM3U
-#EXTINF:-1 ,360
-rtp://239.186.64.204:10000
-#EXTINF:-1 ,2M Monde
-rtp://239.186.64.194:10000
-#EXTINF:-1 ,3+
-rtp://239.186.64.56:10000
-#EXTINF:-1 ,3+ HD
-rtp://239.186.68.14:10000
-#EXTINF:-1 ,3sat CH
-rtp://239.186.64.55:10000
-#EXTINF:-1 ,3sat HD
-rtp://233.35.254.209:1234
-#EXTINF:-1 ,4+
-rtp://239.186.64.142:10000
-#EXTINF:-1 ,4+ HD
-rtp://239.186.68.142:10000
-#EXTINF:-1 ,5+ HD
-rtp://239.186.68.195:10000
-#EXTINF:-1 ,6ter CH
-rtp://239.186.66.130:10000
-#EXTINF:-1 ,8Mont Blanc
-rtp://239.186.64.144:10000
-#EXTINF:-1 ,AB3
-rtp://239.186.66.229:10000
-#EXTINF:-1 ,Al Arabiya
-rtp://239.186.64.192:10000
-#EXTINF:-1 ,Al Jazeera E
-rtp://239.186.64.173:10000
-#EXTINF:-1 ,Al Jazeera E HD
-rtp://239.186.68.171:10000
-#EXTINF:-1 ,Alice
-rtp://239.186.66.107:10000
-#EXTINF:-1 ,Alpenland TV
-rtp://239.186.64.112:10000
-#EXTINF:-1 ,Alpenland HD
-rtp://239.186.70.9:10000
-#EXTINF:-1 ,Andalucia TV
-rtp://239.186.64.197:10000
-#EXTINF:-1 ,Anixe HD
-rtp://239.186.68.7:10000
-#EXTINF:-1 ,ARD1 Das Erste
-rtp://239.186.64.11:10000
-#EXTINF:-1 ,ARD1 Das Erste HD
-rtp://239.186.68.9:10000
-#EXTINF:-1 ,ARD1 alpha
-rtp://239.186.64.119:10000
-#EXTINF:-1 ,ARD1 one
-rtp://239.186.64.121:10000
-#EXTINF:-1 ,ARD1 one HD
-rtp://239.186.68.154:10000
-#EXTINF:-1 ,Arte D
-rtp://239.186.64.23:10000
-#EXTINF:-1 ,Arte D HD
-rtp://239.186.68.11:10000
-#EXTINF:-1 ,Arte F
-rtp://239.186.64.57:10000
-#EXTINF:-1 ,Arte F HD
-rtp://239.186.68.18:10000
-#EXTINF:-1 ,ATV Avrupa
-rtp://239.186.64.201:10000
-#EXTINF:-1 ,b1 TV
-rtp://239.186.66.111:10000
-#EXTINF:-1 ,BBC entertainment
-rtp://239.186.64.182:10000
-#EXTINF:-1 ,BBC News HD
-rtp://239.186.68.160:10000
-#EXTINF:-1 ,BBC One
-rtp://239.186.64.51:10000
-#EXTINF:-1 ,BBC One HD
-rtp://239.186.68.43:10000
-#EXTINF:-1 ,BBC Two
-rtp://239.186.64.165:10000
-#EXTINF:-1 ,BBC Two HD
-rtp://239.186.68.41:10000
-#EXTINF:-1 ,BBC CBBC
-rtp://239.186.64.166:10000
-#EXTINF:-1 ,BBC CBBC HD
-rtp://239.186.68.153:10000
-#EXTINF:-1 ,BBC Four
-rtp://239.186.64.52:10000
-#EXTINF:-1 ,BBC Four HD
-rtp://239.186.68.158:10000
-#EXTINF:-1 ,BBC CBeebies / BBC Four
-rtp://239.186.64.113:10000
-#EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
-rtp://239.186.68.152:10000
-#EXTINF:-1 ,BBC World News
-rtp://239.186.64.176:10000
-#EXTINF:-1 ,BBC World News HD
-rtp://239.186.68.214:10000
-#EXTINF:-1 ,BeCurious HD
-rtp://239.186.68.208:10000
-#EXTINF:-1 ,BFM Business
-rtp://239.186.64.146:10000
-#EXTINF:-1 ,BFM Business HD
-rtp://239.186.70.74:10000
-#EXTINF:-1 ,BFMTV CH
-rtp://239.186.64.72:10000
-#EXTINF:-1 ,BFMTV CH HD
-rtp://239.186.68.196:10000
-#EXTINF:-1 ,bibel.TV
-rtp://239.186.64.131:10000
-#EXTINF:-1 ,bibel.TV HD
-rtp://239.186.68.148:10000
-#EXTINF:-1 ,Bloomberg TV
-rtp://239.186.64.177:10000
-#EXTINF:-1 ,Bodensee TV HD
-rtp://239.186.68.143:10000
-#EXTINF:-1 ,Boing I
-rtp://239.186.64.74:10000
-#EXTINF:-1 ,BOX upfront (ex Heat)
-rtp://239.186.66.124:10000
-#EXTINF:-1 ,BR
-rtp://239.186.64.26:10000
-#EXTINF:-1 ,BR HD
-rtp://239.186.68.26:10000
-#EXTINF:-1 ,BVN TV
-rtp://239.186.64.189:10000
-#EXTINF:-1 ,Canal 24 Horas
-rtp://239.186.64.196:10000
-#EXTINF:-1 ,Canal 9
-rtp://239.186.64.108:10000
-#EXTINF:-1 ,Canal 9 HD
-rtp://239.186.68.144:10000
-#EXTINF:-1 ,Canal Alpha JU
-rtp://239.186.64.106:10000
-#EXTINF:-1 ,CanalAlpha JU HD
-rtp://239.186.68.193:10000
-#EXTINF:-1 ,Canal Alpha NE
-rtp://239.186.64.92:10000
-#EXTINF:-1 ,Canal Alpha NE HD
-rtp://239.186.68.194:10000
-#EXTINF:-1 ,CANALE Italia
-rtp://239.186.64.160:10000
-#EXTINF:-1 ,Capital TV
-rtp://239.186.66.113:10000
-#EXTINF:-1 ,cartoonito
-rtp://239.186.66.176:10000
-#EXTINF:-1 ,CCTV News
-rtp://239.186.66.114:10000
-#EXTINF:-1 ,CCTV4
-rtp://239.186.64.195:10000
-#EXTINF:-1 ,Channel 4
-rtp://239.186.64.183:10000
-#EXTINF:-1 ,Channel 4 HD
-rtp://239.186.68.40:10000
-#EXTINF:-1 ,Channel1 RU
-rtp://239.186.64.82:10000
-#EXTINF:-1 ,Chart Show TV
-rtp://239.186.66.115:10000
-#EXTINF:-1 ,CHTV
-rtp://239.186.66.8:10000
-#EXTINF:-1 ,CHTV HD
-rtp://239.186.68.97:10000
-#EXTINF:-1 ,cielo
-rtp://239.186.64.76:10000
-#EXTINF:-1 ,City Channel 1
-rtp://239.186.64.107:10000
-#EXTINF:-1 ,City Channel 1 HD
-rtp://239.186.70.8:10000
-#EXTINF:-1 ,Class TV Moda
-rtp://239.186.66.189:10000
-#EXTINF:-1 ,Clubland TV
-rtp://239.186.66.116:10000
-#EXTINF:-1 ,CNBC EU
-rtp://239.186.64.167:10000
-#EXTINF:-1 ,CNN International
-rtp://239.186.64.175:10000
-#EXTINF:-1 ,CNN International HD
-rtp://239.186.70.23:10000
-#EXTINF:-1 ,CTC International
-rtp://239.186.66.117:10000
-#EXTINF:-1 ,C8 CH
-rtp://239.186.64.59:10000
-#EXTINF:-1 ,C8 CH HD
-rtp://239.186.68.215:10000
-#EXTINF:-1 ,CSTAR
-rtp://239.186.66.26:10000
-#EXTINF:-1 ,CSTAR HD
-rtp://239.186.70.24:10000
-#EXTINF:-1 ,Davos Klosters HD
-rtp://239.186.68.216:10000
-#EXTINF:-1 ,Deluxe Music
-rtp://239.186.64.132:10000
-#EXTINF:-1 ,Deutsches Musikfernsehen
-rtp://239.186.66.118:10000
-#EXTINF:-1 ,Disney Channel
-rtp://239.186.64.116:10000
-#EXTINF:-1 ,DM Sat
-rtp://239.186.64.79:10000
-#EXTINF:-1 ,DMAX Schweiz
-rtp://239.186.64.34:10000
-#EXTINF:-1 ,DMAX Italia
-rtp://239.186.66.110:10000
-#EXTINF:-1 ,DRAMA
-rtp://239.186.66.140:10000
-#EXTINF:-1 ,Dubai TV
-rtp://239.186.66.119:10000
-#EXTINF:-1 ,Duna TV
-rtp://239.186.66.120:10000
-#EXTINF:-1 ,Duna World
-rtp://239.186.66.85:10000
-#EXTINF:-1 ,DW-TV
-rtp://239.186.64.135:10000
-#EXTINF:-1 ,E4
-rtp://239.186.64.53:10000
-#EXTINF:-1 ,NRJ TV HD Energy TV HD
-rtp://239.186.68.35:10000
-#EXTINF:-1 ,ESC1 (Al Masriya)
-rtp://239.186.64.193:10000
-#EXTINF:-1 ,Euro D
-rtp://239.186.64.199:10000
-#EXTINF:-1 ,Euro Star
-rtp://239.186.66.121:10000
-#EXTINF:-1 ,Euronews DE/ES/PT/RU/AR/TU
-rtp://233.35.254.20:1234
-#EXTINF:-1 ,Euronews E
-rtp://239.186.64.178:10000
-#EXTINF:-1 ,Euronews F
-rtp://239.186.64.151:10000
-#EXTINF:-1 ,Euronews I
-rtp://239.186.64.153:10000
-#EXTINF:-1 ,Eurosport 1 D
-rtp://239.186.64.33:10000
-#EXTINF:-1 ,ERT World
-rtp://239.186.66.227:10000
-#EXTINF:-1 ,FAMILY TV
-rtp://239.186.66.127:10000
-#EXTINF:-1 ,Fashion TV
-rtp://239.186.64.174:10000
-#EXTINF:-1 ,Film4
-rtp://239.186.64.172:10000
-#EXTINF:-1 ,Fine Living
-rtp://239.186.66.178:10000
-#EXTINF:-1 ,Five
-rtp://239.186.64.184:10000
-#EXTINF:-1 ,Flava
-rtp://239.186.66.122:10000
-#EXTINF:-1 ,folx.TV
-rtp://239.186.66.197:10000
-#EXTINF:-1 ,France 2
-rtp://239.186.64.36:10000
-#EXTINF:-1 ,France 2 HD
-rtp://239.186.68.19:10000
-#EXTINF:-1 ,France 3
-rtp://239.186.64.37:10000
-#EXTINF:-1 ,France 3 HD
-rtp://239.186.70.25:10000
-#EXTINF:-1 ,France 4
-rtp://239.186.64.38:10000
-#EXTINF:-1 ,France 4 HD
-rtp://239.186.70.26:10000
-#EXTINF:-1 ,France 5
-rtp://239.186.64.39:10000
-#EXTINF:-1 ,France 5 HD
-rtp://239.186.70.27:10000
-#EXTINF:-1 ,France O
-rtp://239.186.70.28:10000
-#EXTINF:-1 ,franceinfo
-rtp://239.186.66.225:10000
-#EXTINF:-1 ,France 24
-rtp://239.186.64.41:10000
-#EXTINF:-1 ,Frisbee
-rtp://239.186.66.188:10000
-#EXTINF:-1 ,Game TV
-rtp://239.186.64.128:10000
-#EXTINF:-1 ,Giallo
-rtp://239.186.66.187:10000
-#EXTINF:-1 ,gotv
-rtp://239.186.64.141:10000
-#EXTINF:-1 ,Gulli
-rtp://239.186.66.23:10000
-#EXTINF:-1 ,Gulli HD
-rtp://239.186.70.29:10000
-#EXTINF:-1 ,Heart TV
-rtp://239.186.66.123:10000
-#EXTINF:-1 ,HOPE Channel
-rtp://239.186.64.115:10000
-#EXTINF:-1 ,Hope Channel HD
-rtp://239.186.68.251:10000
-#EXTINF:-1 ,hr
-rtp://239.186.64.28:10000
-#EXTINF:-1 ,hr HD
-rtp://239.186.68.156:10000
-#EXTINF:-1 ,HRT 1
-rtp://239.186.66.125:10000
-#EXTINF:-1 ,HSE 24
-rtp://239.186.64.123:10000
-#EXTINF:-1 ,i24 News En
-rtp://239.186.66.126:10000
-#EXTINF:-1 ,i24 News Fr
-rtp://239.186.66.174:10000
-#EXTINF:-1 ,I-TELE
-rtp://239.186.66.25:10000
-#EXTINF:-1 ,I-TELE HD
-rtp://239.186.70.30:10000
-#EXTINF:-1 ,Insight HD
-rtp://239.186.70.75:10000
-#EXTINF:-1 ,ITV 1
-rtp://239.186.64.169:10000
-#EXTINF:-1 ,ITV 1 HD
-rtp://239.186.68.42:10000
-#EXTINF:-1 ,ITV 2
-rtp://239.186.64.170:10000
-#EXTINF:-1 ,ITV 3
-rtp://239.186.64.180:10000
-#EXTINF:-1 ,ITV 4
-rtp://239.186.64.171:10000
-#EXTINF:-1 ,K2
-rtp://239.186.66.186:10000
-#EXTINF:-1 ,kabel eins
-rtp://239.186.64.20:10000
-#EXTINF:-1 , Kabel eins DOKU
-rtp://239.186.66.230:10000
-#EXTINF:-1 ,Kanal 9
-rtp://239.186.64.109:10000
-#EXTINF:-1 ,Kanal 9 HD
-rtp://239.186.68.145:10000
-#EXTINF:-1 , KERRANG
-rtp://239.186.64.105:10000
-#EXTINF:-1 ,KCN1 Kopernikus 1
-rtp://239.186.66.146:10000
-#EXTINF:-1 ,KCN3 Svet Plus 3
-rtp://239.186.66.141:10000
-#EXTINF:-1 ,KiKa
-rtp://239.186.64.31:10000
-#EXTINF:-1 ,KiKA HD
-rtp://239.186.68.28:10000
-#EXTINF:-1 ,Kiss TV
-rtp://239.186.66.128:10000
-#EXTINF:-1 ,KtO
-rtp://239.186.64.148:10000
-#EXTINF:-1 ,k-tv
-rtp://239.186.64.133:10000
-#EXTINF:-1 ,Kurdistan TV
-rtp://239.186.66.203:10000
-#EXTINF:-1 ,La 7
-rtp://239.186.64.49:10000
-#EXTINF:-1 ,La 7 HD
-rtp://239.186.70.7:10000
-#EXTINF:-1 ,La 7d
-rtp://239.186.64.164:10000
-#EXTINF:-1 ,La 7d HD
-rtp://239.186.70.6:10000
-#EXTINF:-1 ,LANCY TV HD
-rtp://239.186.70.76:10000
-#EXTINF:-1 ,la tele
-rtp://239.186.64.104:10000
-#EXTINF:-1 ,la tele HD
-rtp://239.186.68.107:10000
-#EXTINF:-1 ,leman bleu
-rtp://239.186.64.89:10000
-#EXTINF:-1 ,leman bleu HD
-rtp://239.186.70.39:10000
-#EXTINF:-1 ,LFM TV HD
-rtp://239.186.70.11:10000
-#EXTINF:-1 , LOLY TV
-rtp://239.186.66.231:10000
-#EXTINF:-1 ,M6 Boutique
-rtp://239.186.64.149:10000
-#EXTINF:-1 ,M6 CH
-rtp://239.186.64.40:10000
-#EXTINF:-1 ,M6 HD Suisse
-rtp://233.35.254.130:1234
-#EXTINF:-1 ,Max TV
-rtp://239.186.64.102:10000
-#EXTINF:-1 ,Max TV HD
-rtp://239.186.68.199:10000
-#EXTINF:-1 ,MDR
-rtp://239.186.64.63:10000
-#EXTINF:-1 ,MDR HD
-rtp://239.186.68.162:10000
-#EXTINF:-1 ,MEDIASET Canale 5
-rtp://239.186.64.46:10000
-#EXTINF:-1 ,MEDIASET Canale 5 HD
-rtp://239.186.68.163:10000
-#EXTINF:-1 ,MEDIASET EXTRA
-rtp://239.186.66.37:10000
-#EXTINF:-1 ,MEDIASET Italia 1
-rtp://239.186.64.48:10000
-#EXTINF:-1 ,MEDIASET Italia 1 HD
-rtp://239.186.68.165:10000
-#EXTINF:-1 ,MEDIASET Italia 2
-rtp://239.186.66.44:10000
-#EXTINF:-1 ,MEDIASET IRIS
-rtp://239.186.64.75:10000
-#EXTINF:-1 ,MEDIASET La 5
-rtp://239.186.64.73:10000
-#EXTINF:-1 ,MEDIASET Rete 4
-rtp://239.186.64.47:10000
-#EXTINF:-1 ,MEDIASET Rete 4 HD
-rtp://239.186.68.164:10000
-#EXTINF:-1 ,MEDIASET TOP crime
-rtp://239.186.66.180:10000
-#EXTINF:-1 ,More4
-rtp://239.186.64.185:10000
-#EXTINF:-1 ,MTV CH
-rtp://239.186.64.32:10000
-#EXTINF:-1 ,MTV CH HD D
-rtp://239.186.68.174:10000
-#EXTINF:-1 ,musig24 HD
-rtp://239.186.68.207:10000
-#EXTINF:-1 ,N24
-rtp://239.186.64.30:10000
-#EXTINF:-1 ,N24 Doku (deu)
-rtp://239.186.66.232:10000
-#EXTINF:-1 ,NDR
-rtp://239.186.64.25:10000
-#EXTINF:-1 ,NDR HD
-rtp://239.186.68.29:10000
-#EXTINF:-1 ,NHK World HD
-rtp://239.186.68.172:10000
-#EXTINF:-1 ,Nick CH D
-rtp://239.186.64.186:10000
-#EXTINF:-1 ,Nick CH D HD
-rtp://239.186.68.175:10000
-#EXTINF:-1 ,NOVE (ex Deejay TV)
-rtp://239.186.64.158:10000
-#EXTINF:-1 ,NRJ12
-rtp://239.186.64.58:10000
-#EXTINF:-1 ,NRJ12 HD
-rtp://239.186.70.33:10000
-#EXTINF:-1 ,NRTV
-rtp://239.186.66.198:10000
-#EXTINF:-1 ,NT1
-rtp://239.186.64.42:10000
-#EXTINF:-1 ,NT1 HD
-rtp://239.186.70.34:10000
-#EXTINF:-1 ,n-tv
-rtp://239.186.64.29:10000
-#EXTINF:-1 ,n-tv CH HD
-rtp://239.186.68.146:10000
-#EXTINF:-1 ,NTV Avrupa
-rtp://239.186.64.202:10000
-#EXTINF:-1 ,Nuvolari
-rtp://239.186.66.42:10000
-#EXTINF:-1 ,One TV HD
-rtp://239.186.70.12:10000
-#EXTINF:-1 ,ORF1 ORF eins
-rtp://239.186.64.13:10000
-#EXTINF:-1 ,ORF1 HD ORF eins HD
-rtp://239.186.68.12:10000
-#EXTINF:-1 ,ORF2
-rtp://239.186.64.14:10000
-#EXTINF:-1 ,ORF2 HD
-rtp://239.186.68.13:10000
-#EXTINF:-1 ,Phoenix Info News
-rtp://239.186.66.132:10000
-#EXTINF:-1 ,Phoenix TV
-rtp://239.186.64.65:10000
-#EXTINF:-1 ,Phoenix TV HD
-rtp://239.186.68.30:10000
-#EXTINF:-1 ,Pilatus Beatz HD
-rtp://239.186.68.104:10000
-#EXTINF:-1 ,Planeta RTR
-rtp://239.186.66.138:10000
-#EXTINF:-1 ,PTC cateant
-rtp://239.186.64.80:10000
-#EXTINF:-1 ,Chilled TV
-rtp://239.186.66.133:10000
-#EXTINF:-1 ,Powerturk
-rtp://239.186.66.134:10000
-#EXTINF:-1 ,Pro TV International
-rtp://239.186.66.135:10000
-#EXTINF:-1 ,Pro7
-rtp://239.186.64.19:10000
-#EXTINF:-1 ,Pro7 Maxx
-rtp://239.186.66.109:10000
-#EXTINF:-1 ,PTPC
-rtp://239.186.66.136:10000
-#EXTINF:-1 ,Puls 8 HD
-rtp://239.186.68.191:10000
-#EXTINF:-1 ,R9 Oesterreich HD
-rtp://239.186.68.248:10000
-#EXTINF:-1 ,RAI 1
-rtp://239.186.64.43:10000
-#EXTINF:-1 ,Rai 1 HD
-rtp://239.186.68.36:10000
-#EXTINF:-1 ,Rai 2
-rtp://239.186.64.44:10000
-#EXTINF:-1 ,Rai 2 HD
-rtp://239.186.70.77:10000
-#EXTINF:-1 ,Rai 3
-rtp://239.186.64.45:10000
-#EXTINF:-1 ,Rai 3 HD
-rtp://239.186.70.78:10000
-#EXTINF:-1 ,Rai 4
-rtp://239.186.64.50:10000
-#EXTINF:-1 ,Rai 5
-rtp://239.186.66.179:10000
-#EXTINF:-1 ,Rai Gulp
-rtp://233.35.254.98:1234
-#EXTINF:-1 ,Rai Movie
-rtp://239.186.66.185:10000
-#EXTINF:-1 ,Rai Nettuno
-rtp://239.186.66.184:10000
-#EXTINF:-1 ,Rai News
-rtp://239.186.64.156:10000
-#EXTINF:-1 ,Rai Premium
-rtp://239.186.66.183:10000
-#EXTINF:-1 ,Rai Scuola
-rtp://239.186.66.34:10000
-#EXTINF:-1 ,Rai Sport 1
-rtp://239.186.64.157:10000
-#EXTINF:-1 ,Rai Sport 1 HD
-rtp://239.186.70.2:10000
-#EXTINF:-1 ,Rai Sport 2
-rtp://239.186.64.159:10000
-#EXTINF:-1 ,Rai Storia
-rtp://239.186.64.162:10000
-#EXTINF:-1 ,Rai YoYo
-rtp://239.186.66.182:10000
-#EXTINF:-1 ,rbb
-rtp://239.186.64.126:10000
-#EXTINF:-1 ,rbb HD
-rtp://239.186.68.157:10000
-#EXTINF:-1 ,Real Time
-rtp://239.186.66.43:10000
-#EXTINF:-1 ,Record Int. EU
-rtp://239.186.64.83:10000
-#EXTINF:-1 ,Record Int. EU HD
-rtp://239.186.68.246:10000
-#EXTINF:-1 ,RegioTVplus HD
-rtp://239.186.70.40:10000
-#EXTINF:-1 ,RIC TV
-rtp://239.186.64.129:10000
-#EXTINF:-1 ,RIK Sat
-rtp://239.186.66.137:10000
-#EXTINF:-1 ,Rouge TV
-rtp://239.186.64.145:10000
-#EXTINF:-1 ,Rouge TV HD
-rtp://239.186.68.253:10000
-#EXTINF:-1 ,RSI LA 1
-rtp://239.186.64.7:10000
-#EXTINF:-1 ,RSI LA 1 HD
-rtp://239.186.68.5:10000
-#EXTINF:-1 ,RSI LA 2
-rtp://239.186.64.8:10000
-#EXTINF:-1 ,RSI LA 2 HD
-rtp://239.186.68.6:10000
-#EXTINF:-1 ,RTK 1
-rtp://239.186.64.81:10000
-#EXTINF:-1 ,RTL
-rtp://239.186.64.15:10000
-#EXTINF:-1 ,RTL II
-rtp://239.186.64.16:10000
-#EXTINF:-1 ,RTLNITRO
-rtp://239.186.64.140:10000
-#EXTINF:-1 ,RTLplus
-rtp://239.186.66.201:10000
-#EXTINF:-1 ,RTL9 CH HD
-rtp://239.186.68.242:10000
-#EXTINF:-1 ,RTP Int.
-rtp://239.186.64.77:10000
-#EXTINF:-1 ,RTS un
-rtp://239.186.64.5:10000
-#EXTINF:-1 ,RTS un HD
-rtp://239.186.68.3:10000
-#EXTINF:-1 ,RTS deux
-rtp://239.186.64.6:10000
-#EXTINF:-1 ,RTS deux HD
-rtp://239.186.68.4:10000
-#EXTINF:-1 ,Rudaw TV HD
-rtp://239.186.68.247:10000
-#EXTINF:-1 ,Russia Today
-rtp://239.186.66.139:10000
-#EXTINF:-1 ,S1 HD
-rtp://239.186.68.147:10000
-#EXTINF:-1 ,SAT.1 CH
-rtp://239.186.64.18:10000
-#EXTINF:-1 ,Sat.1 Gold
-rtp://239.186.64.143:10000
-#EXTINF:-1 ,Schweiz 5
-rtp://239.186.64.101:10000
-#EXTINF:-1 ,Schweiz 5 HD
-rtp://239.186.68.245:10000
-#EXTINF:-1 ,ServusTV CH
-rtp://239.186.64.136:10000
-#EXTINF:-1 ,ServusTV HD AT
-rtp://233.35.254.129:1234
-#EXTINF:-1 ,SHf
-rtp://239.186.64.97:10000
-#EXTINF:-1 ,Show Turk
-rtp://239.186.64.200:10000
-#EXTINF:-1 ,Sixx CH
-rtp://239.186.64.70:10000
-#EXTINF:-1 ,Sky News Int.
-rtp://239.186.64.179:10000
-#EXTINF:-1 ,Sky Sport News HD (deu)
-rtp://239.186.70.79:10000
-#EXTINF:-1 ,sky TG24
-rtp://239.186.66.177:10000
-#EXTINF:-1 ,Sport1 CH
-rtp://239.186.64.64:10000
-#EXTINF:-1 ,Sport1 CH HD
-rtp://239.186.68.159:10000
-#EXTINF:-1 ,SRF 1
-rtp://239.186.64.2:10000
-#EXTINF:-1 ,SRF 1 HD
-rtp://239.186.68.1:10000
-#EXTINF:-1 ,SRF 2 SRF zwei
-rtp://239.186.64.3:10000
-#EXTINF:-1 ,SRF 2 HD SRF zwei HD
-rtp://239.186.68.2:10000
-#EXTINF:-1 ,SRF info
-rtp://239.186.64.4:10000
-#EXTINF:-1 ,SRF info HD
-rtp://239.186.68.202:10000
-#EXTINF:-1 ,Star TV
-rtp://239.186.64.87:10000
-#EXTINF:-1 ,Star TV HD
-rtp://239.186.68.188:10000
-#EXTINF:-1 ,Super RTL
-rtp://239.186.64.17:10000
-#EXTINF:-1 ,Super!
-rtp://239.186.66.181:10000
-#EXTINF:-1 ,SWR
-rtp://239.186.64.27:10000
-#EXTINF:-1 ,SWR HD
-rtp://239.186.68.25:10000
-#EXTINF:-1 ,Tagesschau24
-rtp://239.186.64.120:10000
-#EXTINF:-1 ,Tagesschau24 HD
-rtp://239.186.68.161:10000
-#EXTINF:-1 ,TC Flash HD D
-rtp://239.186.68.243:10000
-#EXTINF:-1 ,TC Flash HD F
-rtp://239.186.68.244:10000
-#EXTINF:-1 ,Tele 1
-rtp://239.186.64.91:10000
-#EXTINF:-1 ,Tele 1 HD
-rtp://239.186.68.176:10000
-#EXTINF:-1 ,TELE 5
-rtp://239.186.64.22:10000
-#EXTINF:-1 ,TELE BARN
-rtp://239.186.64.60:10000
-#EXTINF:-1 ,TELE BARN HD
-rtp://239.186.68.38:10000
-#EXTINF:-1 ,TeleBielingue (deu/fra)
-rtp://239.186.64.95:10000
-#EXTINF:-1 ,TeleBielingue HD (deu/fra)
-rtp://239.186.70.82:10000
-#EXTINF:-1 ,TELE D HD
-rtp://239.186.68.217:10000
-#EXTINF:-1 ,Tele M1
-rtp://239.186.64.90:10000
-#EXTINF:-1 ,Tele M1 HD
-rtp://239.186.68.102:10000
-#EXTINF:-1 ,teleticino
-rtp://239.186.64.99:10000
-#EXTINF:-1 ,teleticino HD
-rtp://239.186.68.201:10000
-#EXTINF:-1 ,Tele Top
-rtp://239.186.64.96:10000
-#EXTINF:-1 ,Tele Top HD
-rtp://239.186.68.252:10000
-#EXTINF:-1 ,TéléVersoix
-rtp://239.186.64.69:10000
-#EXTINF:-1 ,TELE Z
-rtp://239.186.64.103:10000
-#EXTINF:-1 ,TELE Z HD
-rtp://239.186.68.205:10000
-#EXTINF:-1 ,Tele Zentralschweiz
-rtp://239.186.68.166:10000
-#EXTINF:-1 ,Tele Zuri
-rtp://239.186.64.9:10000
-#EXTINF:-1 ,Tele Zuri HD
-rtp://239.186.68.189:10000
-#EXTINF:-1 ,Telebasel
-rtp://239.186.64.88:10000
-#EXTINF:-1 ,Telebasel HD
-rtp://239.186.68.206:10000
-#EXTINF:-1 ,TELELOMBARDIA
-rtp://239.186.64.154:10000
-#EXTINF:-1 ,Telenova
-rtp://239.186.64.152:10000
-#EXTINF:-1 ,Telepace
-rtp://239.186.64.163:10000
-#EXTINF:-1 ,TF1 CH
-rtp://239.186.64.35:10000
-#EXTINF:-1 ,TF1 HD France
-rtp://233.35.254.116:1234
-#EXTINF:-1 ,TF1 HD Suisse
-rtp://233.35.254.133:1234
-#EXTINF:-1 ,TGRT EU
-rtp://239.186.64.203:10000
-#EXTINF:-1 ,Thai Global Network TGN
-rtp://239.186.64.198:10000
-#EXTINF:-1 ,The Box
-rtp://239.186.66.142:10000
-#EXTINF:-1 ,TLC CH
-rtp://239.186.66.175:10000
-#EXTINF:-1 ,TLC CH HD
-rtp://239.186.70.67:10000
-#EXTINF:-1 ,TMC
-rtp://239.186.64.127:10000
-#EXTINF:-1 ,TMC HD CH
-rtp://239.186.70.37:10000
-#EXTINF:-1 ,TOGGO plus
-rtp://239.186.66.202:10000
-#EXTINF:-1 ,Trace Tropical
-rtp://239.186.66.144:10000
-#EXTINF:-1 ,Trace Urban
-rtp://239.186.66.145:10000
-#EXTINF:-1 ,TRT Kurdi
-rtp://239.186.66.204:10000
-#EXTINF:-1 ,TRT TURK
-rtp://239.186.64.188:10000
-#EXTINF:-1 ,TSO
-rtp://239.186.64.100:10000
-#EXTINF:-1 ,TSO HD
-rtp://239.186.68.218:10000
-#EXTINF:-1 ,TV Galicia
-rtp://239.186.64.187:10000
-#EXTINF:-1 ,TV Oberwallis HD
-rtp://239.186.70.5:10000
-#EXTINF:-1 ,TV Polonia
-rtp://239.186.66.147:10000
-#EXTINF:-1 ,TV Rheintal
-rtp://239.186.64.93:10000
-#EXTINF:-1 ,TV Romania International
-rtp://239.186.66.148:10000
-#EXTINF:-1 ,TV2000
-rtp://239.186.66.108:10000
-#EXTINF:-1 ,TV5MONDE EUROPE
-rtp://239.186.64.71:10000
-#EXTINF:-1 ,TV5MONDE FRANCE BELGIQUE SUISSE subSD
-rtp://239.186.64.150:10000
-#EXTINF:-1 ,TV5MONDE FRANCE BELGIQUE SUISSE SD
-rtp://239.186.70.41:10000
-#EXTINF:-1 ,TV8int Turkey 
-rtp://239.186.64.205:10000
-#EXTINF:-1 ,TV8 Italia (ex MTV italia)
-rtp://239.186.64.161:10000
-#EXTINF:-1 ,TV24 HD
-rtp://239.186.68.190:10000
-#EXTINF:-1 ,TV25 HD
-rtp://239.186.70.20:10000
-#EXTINF:-1 ,TVE International
-rtp://239.186.64.54:10000
-#EXTINF:-1 ,TVM3
-rtp://239.186.64.98:10000
-#EXTINF:-1 ,TVM3 HD
-rtp://239.186.70.21:10000
-#EXTINF:-1 ,tvo
-rtp://239.186.64.94:10000
-#EXTINF:-1 ,tvo HD
-rtp://239.186.70.4:10000
-#EXTINF:-1 ,tvsh Sat
-rtp://239.186.66.150:10000
-#EXTINF:-1 ,ULS Network HD
-rtp://239.186.70.72:10000
-#EXTINF:-1 ,vision tv (promotion bouquet TELECLUB)
-rtp://239.186.79.4:10000
-#EXTINF:-1 ,vision tv HD (promotion bouquet TELECLUB)
-rtp://239.186.79.20:10000
-#EXTINF:-1 ,VIVA
-rtp://239.186.64.61:10000
-#EXTINF:-1 ,VOX
-rtp://239.186.64.21:10000
-#EXTINF:-1 ,W9 CH
-rtp://239.186.66.24:10000
-#EXTINF:-1 ,W9 HD CH
-rtp://239.186.70.38:10000
-#EXTINF:-1 ,WDR
-rtp://239.186.64.24:10000
-#EXTINF:-1 ,WDR HD
-rtp://239.186.68.24:10000
-#EXTINF:-1 ,Welt der Wunder TV "HD"
-rtp://239.186.68.198:10000
-#EXTINF:-1 ,Z1 TV
-rtp://239.186.66.149:10000
-#EXTINF:-1 ,ZDF CH
-rtp://239.186.64.12:10000
-#EXTINF:-1 ,ZDF CH HD
-rtp://239.186.68.10:10000
-#EXTINF:-1 ,zdf info
-rtp://239.186.64.118:10000
-#EXTINF:-1 ,zdf info HD
-rtp://239.186.68.32:10000
-#EXTINF:-1 ,zdf_neo
-rtp://239.186.64.66:10000
-#EXTINF:-1 ,zdf_neo HD
-rtp://239.186.68.31:10000
-#EXTINF:-1 ,Zee One HD
-rtp://239.186.70.70:10000
+#EXTINF:-1,DE: Orf 1
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/190.ts
+#EXTINF:-1,DE: Orf 2
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/191.ts
+#EXTINF:-1,DE: Orf 3
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8624.ts
+#EXTINF:-1,DE: ATV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8581.ts
+#EXTINF:-1,DE: ATV 2
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8623.ts
+#EXTINF:-1,DE: Austria 24h
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/6366.ts
+#EXTINF:-1,DE: Puls 4
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8582.ts
+#EXTINF:-1,DE: Okto
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/1504.ts
+#EXTINF:-1,DE: Das Erste
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8583.ts
+#EXTINF:-1,DE: ZDF
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/146.ts
+#EXTINF:-1,DE: ZDF Neo
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8676.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/144.ts
+#EXTINF:-1,DE: RTL HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/185.ts
+#EXTINF:-1,DE: RTL 2
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/187.ts
+#EXTINF:-1,DE: RTL 2 You
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10350.ts
+#EXTINF:-1,DE: RTL Living
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10349.ts
+#EXTINF:-1,DE: RTL Plus
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11276.ts
+#EXTINF:-1,DE: RTL CRIME
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/186.ts
+#EXTINF:-1,DE: RTL Nitro
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/184.ts
+#EXTINF:-1,DE: RTL PASSION
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/183.ts
+#EXTINF:-1,DE: RTL Lux
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8679.ts
+#EXTINF:-1,DE: Super RTL
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/153.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/188.ts
+#EXTINF:-1,DE: Pro 7 Maxx
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8541.ts
+#EXTINF:-1,DE: Pro 7 Fun
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8542.ts
+#EXTINF:-1,DE: Kabel Eins
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/199.ts
+#EXTINF:-1,DE: Servus (DE)
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8651.ts
+#EXTINF:-1,DE: Servus (AT)
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8652.ts
+#EXTINF:-1,DE: Euronews
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8675.ts
+#EXTINF:-1,DE: DW
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8678.ts
+#EXTINF:-1,DE: Vox
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/148.ts
+#EXTINF:-1,DE: Fox
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/201.ts
+#EXTINF:-1,DE: 3sat
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/211.ts
+#EXTINF:-1,DE: Sat 1
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/182.ts
+#EXTINF:-1,DE: D-Max
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/204.ts
+#EXTINF:-1,DE: E!
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8680.ts
+#EXTINF:-1,DE: TLC
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10370.ts
+#EXTINF:-1,DE: Muenchen TV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8653.ts
+#EXTINF:-1,DE: Alex Berlin
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8654.ts
+#EXTINF:-1,DE: Tagesschau 24
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/151.ts
+#EXTINF:-1,DE: Arte HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/209.ts
+#EXTINF:-1,DE: WDR HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/147.ts
+#EXTINF:-1,DE: BR
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8668.ts
+#EXTINF:-1,DE: MDR
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8671.ts
+#EXTINF:-1,DE: SWR
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8669.ts
+#EXTINF:-1,DE: SR
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8670.ts
+#EXTINF:-1,DE: Syfy HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/152.ts
+#EXTINF:-1,DE: N 24 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/196.ts
+#EXTINF:-1,DE: N-TV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/195.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10360.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10359.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10358.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10357.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10356.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10355.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10354.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10353.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10352.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10351.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/160.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/159.ts
+#EXTINF:-1,DE: Sky Sports 3 HD (Only Live)
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8612.ts
+#EXTINF:-1,DE: Sky Sport News
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8543.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/161.ts
+#EXTINF:-1,DE: Eurosport 1
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/202.ts
+#EXTINF:-1,DE: Sky Select HD 1
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/167.ts
+#EXTINF:-1,DE: Sky Select HD 2
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/166.ts
+#EXTINF:-1,DE: Sky Select HD 3
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/165.ts
+#EXTINF:-1,DE: Sky Select HD 4
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/164.ts
+#EXTINF:-1,DE: Sky Select HD 5
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/163.ts
+#EXTINF:-1,DE: Sky Select HD 6
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/162.ts
+#EXTINF:-1,DE: Sky Select HD 7
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/169.ts
+#EXTINF:-1,DE: MTV Base
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10361.ts
+#EXTINF:-1,DE: MTV Dance
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11268.ts
+#EXTINF:-1,DE: MTV Hits
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11267.ts
+#EXTINF:-1,DE: NRJ Hits
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11278.ts
+#EXTINF:-1,DE: Jukebox
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11279.ts
+#EXTINF:-1,DE: Sky Action
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/180.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/179.ts
+#EXTINF:-1,DE: Sky Comedy
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/175.ts
+#EXTINF:-1,DE: Sky Krimi
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/171.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/172.ts
+#EXTINF:-1,DE: Sky Emotion
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/174.ts
+#EXTINF:-1,DE: Sky Cinema
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/177.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8540.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/176.ts
+#EXTINF:-1,DE: AXN HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/208.ts
+#EXTINF:-1,DE: 13TH Street HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/212.ts
+#EXTINF:-1,DE: TNT Film
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/150.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/149.ts
+#EXTINF:-1,DE: ZEE One
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/9413.ts
+#EXTINF:-1,DE: MGM
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/197.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/207.ts
+#EXTINF:-1,DE: National Geographic Channel HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/194.ts
+#EXTINF:-1,DE: National Geographic Wild HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/193.ts
+#EXTINF:-1,DE: History HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/200.ts
+#EXTINF:-1,DE: Animal Planet
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8681.ts
+#EXTINF:-1,DE: Kika HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/198.ts
+#EXTINF:-1,DE: Nickelodeon
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/8666.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/205.ts
+#EXTINF:-1,DE: Disney Channel
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/206.ts
+#EXTINF:-1,DE: A&E
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10373.ts
+#EXTINF:-1,DE: Boomerang HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10385.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10384.ts
+#EXTINF:-1,DE: Disney Junior
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10381.ts
+#EXTINF:-1,DE: Disney XD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10382.ts
+#EXTINF:-1,DE: Eurosport 2
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10364.ts
+#EXTINF:-1,DE: Heimat Kanal HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10377.ts
+#EXTINF:-1,DE: Junior HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10383.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10367.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10368.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10376.ts
+#EXTINF:-1,DE: Moto Vision
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10371.ts
+#EXTINF:-1,DE: Nick Jr.
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10379.ts
+#EXTINF:-1,DE: Planet HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10374.ts
+#EXTINF:-1,DE: Romance TV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10375.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10366.ts
+#EXTINF:-1,DE: SIXX HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10365.ts
+#EXTINF:-1,DE: Sony Channel HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10369.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10378.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/10372.ts
+#EXTINF:-1,DE: ComedyCentral/VIVA
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11277.ts
+#EXTINF:-1,DE: GoldstarTV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11280.ts
+#EXTINF:-1,DE: Phoenix
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11273.ts
+#EXTINF:-1,DE: Silverline
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11275.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11270.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11271.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11282.ts
+#EXTINF:-1,DE: SpiegelTV
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11281.ts
+#EXTINF:-1,DE: Tele5
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11274.ts
+#EXTINF:-1,DE: WeltDerWunder
+http://boomtv.at:8000/live/fiesel.baumaschinist@gmail.com/0sa2h1YA9r/11283.ts
